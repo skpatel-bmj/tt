@@ -3,4 +3,4 @@
 wp-content/plu/*txt
 
 # Exclude .png files
-wp-content/plu/!1-test/*
+wp-content/plu/!6-test/*
