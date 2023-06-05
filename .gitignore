@@ -1,3 +1,6 @@
 # testing
 
 wp-content/plu/*txt
+
+# Exclude .png files
+!1-test/*
